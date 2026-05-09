@@ -5,8 +5,8 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg: ##3E4A52;
-  --bg2: ##3E4A52;
+  --bg: #3E4A52;
+  --bg2: #3E4A52;
   --card: #13161f;
   --border: rgba(245,197,24,0.15);
   --gold: ##00CED1;
